@@ -1,2 +1,2 @@
-# bitcoinPriceTracker
-A Bitcoin price tracker that gives user's latest Bitcoin price data in all the popular, traded currencies.
+# iOSbitcoinPriceTracker
+A Bitcoin price tracker app that gives user's latest Bitcoin price data in all the popular, traded currencies.
