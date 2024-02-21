@@ -8,8 +8,8 @@ Built using Swift and incorporates the use of API's (to gather live prices) and 
   
 To run this project, make sure you have Xcode on your machine and follow these steps:
 
-1. Clone the repository to your local machine.
-2. Open the project file in Xcode and click the "play" button in the Xcode toolbar... or use the keyboard shortcut Command-R.
-3. The project should be built successfully and run in the Xcode simulator or on a connected device.
+1. Clone the repository to your local machine. ( ^ just click on the green "Code" button at the top and then click  "Download ZIP". Once the ZIP file is downloaded click on it to "Unzip" the file and go to Step 2.. ) 
+3. Open the project file in Xcode and click the "play" button in the Xcode toolbar... or use the keyboard shortcut Command-R.
+4. The project should be built successfully and run in the Xcode simulator or on a connected device.
 
 Enjoy :) - Jibryll Brinkley
